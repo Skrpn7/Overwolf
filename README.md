@@ -137,7 +137,7 @@ Download Visual Studio Code on your machine at [VScode]
 
 [//]: # 
 
-[All-Platform-Links]:<>
+[All-Platform-Links]:<https://linktr.ee/_team_omega_>
 
 [Youtube]: <https://youtu.be/VQmroWvEY70>
 
