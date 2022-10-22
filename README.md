@@ -25,6 +25,8 @@ Ali hamza siddique : The Notorious#2845
 
 RishiKesh Dhruw : RishikeshDhruw#5523
 
+Manish Deshmukh : infinix#7487
+
 ## What is Medusa?
 > The Open Source Shopify Alternative
 
