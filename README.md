@@ -17,7 +17,7 @@ Team Name : **_Team Omega_**
 
 Discord Tags 
 
-Somesh kumar dhruw : Skrpn_#3804
+Somesh kumar dhruw : Skrpn#3804
 
 farzan ahmad : Omega#4753
 
