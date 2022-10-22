@@ -7,20 +7,20 @@ const NavLinks = () => {
     <div>
       <Link href="#">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
-          Mouse & Keyboards
+          FPS Games
         </a>
       </Link>
       <Link href="#">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
-          Processor & Graphic cards
+          Horror Games
         </a>
       </Link>
       <Link href="#">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
-          Monitors & Computers
+          Action Games
         </a>
       </Link>
-      <Link href="https://github.com/AyushSahu77">
+      <Link href="https://github.com/Skrpn7">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
           About the developers
         </a>

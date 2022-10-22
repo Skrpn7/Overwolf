@@ -4,7 +4,7 @@ import { useContext } from "react";
 import { AiFillCaretDown } from "react-icons/ai";
 import { FaGithub } from "react-icons/fa";
 import StoreContext from "../context/store-context";
-import MedusaLogo from "../public/mylogo.PNG";
+import MedusaLogo from "../public/mylogo.png";
 import BakeryBanner from "../public/banner.PNG"
 import ChocolateSplash from "../public/banner2.PNG"
 import field from "../public/fieldSvg.svg";
@@ -22,13 +22,13 @@ export default function Home({ products }) {
       <main className={styles.main}>
         <div className={styles.hero}>
           <div className={styles.title}>
-            <h1 style={{ margin: 0 }}>Ace-Tech</h1>
+            <h1 style={{ margin: 0 }}>OverWolf</h1>
             {/* <h1 style={{ margin: 0 }}>+</h1>
             <h1 style={{ margin: 0 }}>Next.js starter</h1> */}
           </div>
           <div className={styles.links}>
             <p id="taglineTitle">
-              <h2>All of the best Tech Products in a Single Place 😎</h2>
+              <h2>All of the best Games in a Single Place 😎</h2>
             </p>
           </div>
         </div>
@@ -36,7 +36,7 @@ export default function Home({ products }) {
           <Image src={BakeryBanner} alt="field" layout="responsive"></Image>
         </div>
         <section id="storeSection" className={store.container}>
-          <h1 className={store.title}>Stella deals <span className={store.title_inner}> ...EVERYWHERE... </span> You'll thank us later!</h1>   
+          <h1 className={store.title}>Cheapest Games <span className={store.title_inner}> ...EVERYTIME... </span> You'll thank us later!</h1>   
           <div className={styles.canvas}>
           <Image src={ChocolateSplash} alt="field" layout="responsive"></Image>
         </div>
@@ -105,7 +105,7 @@ export default function Home({ products }) {
           <div className={footer.listA}>
             <h4>Community</h4>
             <li>
-              <Link href="https://www.linkedin.com/in/ayushsahu77/">
+              <Link href="https://www.linkedin.com/in/farzan-ahmad-8a8a98224/">
                 <a target="_blank">Linkedin</a>
               </Link>
             </li>
@@ -113,12 +113,12 @@ export default function Home({ products }) {
           <div className={footer.listA}>
             <h4>More</h4>
             <li>
-              <Link href="https://github.com/AyushSahu77">
+              <Link href="https://github.com/Skrpn7">
                 <a target="_blank">GitHub Repo</a>
               </Link>
             </li>
             <li>
-              <Link href="https://github.com/AyushSahu77">
+              <Link href="https://github.com/Skrpn7">
                 <a target="_blank">Contact us</a>
               </Link>
             </li>
