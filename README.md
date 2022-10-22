@@ -1,7 +1,7 @@
 # E-Commerce Game shop Website 🎮
 ## _Life is lie, Game on_
 
-![mylogo](https://user-images.githubusercontent.com/102364606/196030631-65d606bc-a3e3-4676-b114-ed595be63ad8.png)
+![mylogo](https://user-images.githubusercontent.com/95912731/197332911-7a537026-0163-4d51-99c8-f9ec54c884f4.png)
 
 - ✨By Somesh kumar dhruw, Farzan Ahmad, Ali hamza Siddique,Rishikesh Dhruw ✨
 
@@ -40,16 +40,12 @@ Demo Link :
 
 Image (Screenshot) preview :
 
-<img width="1440" alt="Screenshot 2022-10-16 at 3 45 29 PM" src="https://user-images.githubusercontent.com/102364606/196030697-56216b15-fe31-4c12-8022-958b040f4fe5.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 45 39 PM" src="https://user-images.githubusercontent.com/102364606/196030712-b794b20a-67c9-41b5-9674-161dd1f17634.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 45 45 PM" src="https://user-images.githubusercontent.com/102364606/196030716-fd2d1a23-b1ed-40fd-8a8e-a78c6167a129.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 45 51 PM" src="https://user-images.githubusercontent.com/102364606/196030718-a3d2fd69-c437-4db3-8068-5d2d4a5c8a6f.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 46 11 PM" src="https://user-images.githubusercontent.com/102364606/196030721-024ffaaf-13a4-4e5c-acd9-74848506c789.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 46 51 PM" src="https://user-images.githubusercontent.com/102364606/196030724-0aa975ad-4e02-400e-8cbf-92ff4777e1f1.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 47 06 PM" src="https://user-images.githubusercontent.com/102364606/196030728-468a9a01-fe0a-41f4-bb3b-33cf6d4cb37c.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 47 52 PM" src="https://user-images.githubusercontent.com/102364606/196030731-2965602d-e6f1-4aac-b369-58d2f7518d0e.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 48 02 PM" src="https://user-images.githubusercontent.com/102364606/196030734-33115972-69ba-415e-8f6b-24a79c37b66d.png">
-<img width="1440" alt="Screenshot 2022-10-16 at 3 48 25 PM" src="https://user-images.githubusercontent.com/102364606/196030739-cf39edb8-fd57-4bec-81b2-ed22b472009c.png">
+<img width="1440" alt="Screenshot 2022-10-16 at 3 45 29 PM" src="https://user-images.githubusercontent.com/95912731/197332666-ec703702-fd93-437e-a6af-7f661571654e.png">
+<img width="1440" alt="Screenshot 2022-10-16 at 3 45 39 PM" src="https://user-images.githubusercontent.com/95912731/197332677-bc5a2ce2-a095-41e1-ab87-839cbc82e198.png">
+<img width="1440" alt="Screenshot 2022-10-16 at 3 45 45 PM" src="https://user-images.githubusercontent.com/95912731/197332682-953e4a26-22d0-46b5-8045-14e378102677.png">
+<img width="1440" alt="Screenshot 2022-10-16 at 3 45 51 PM" src="https://user-images.githubusercontent.com/95912731/197332690-4b394d07-3409-4f79-9f12-022e80f4e3f1.png">
+<img width="1440" alt="Screenshot 2022-10-16 at 3 46 11 PM" src="https://user-images.githubusercontent.com/95912731/197332694-12d0c049-4d5f-4f1c-990d-33f2797601ba.png">
+
 
 ## Installation - Medusa - Get started in minutes
 
