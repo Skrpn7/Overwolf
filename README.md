@@ -3,7 +3,7 @@
 
 ![mylogo](https://user-images.githubusercontent.com/95912731/197332911-7a537026-0163-4d51-99c8-f9ec54c884f4.png)
 
-- ✨By Somesh kumar dhruw, Farzan Ahmad, Ali hamza Siddique,Rishikesh Dhruw ✨
+- ✨By Somesh kumar dhruw, Farzan Ahmad, Ali hamza Siddique,Rishikesh Dhruw,Manish Deshmukh ✨
 
 - Star🌟 this repository and fork🍴 to save it to your repos for easy access.
 
