@@ -94,7 +94,7 @@ Open terminal on the project folder
 
 1. Change to project folder
 ```sh
-cd Ace-Tech-eCommerce
+cd Overwolf
 ```
 2. Change to my-medusa-store directory
 ```sh
